@@ -1,2 +1,2 @@
-# E-commerce-homepage
-a e-commerce websitehome page
+# to do list
+to do list usinf html css and javascript
